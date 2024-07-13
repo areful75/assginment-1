@@ -84,6 +84,7 @@ margin-bottom:30px;
     padding:45px;
     margin-bottom: 30px;
 }
+
 .img-container-title1{
 
 color: rgba(13, 19, 33, 0.7);
@@ -108,10 +109,14 @@ margin-bottom: 30px;
 }
 .btn-1{
     padding: 15px 35px;
-    
+    color: white;
+}
+.btn-1 a{
+    text-decoration: none;
 }
 .inspiration{
     text-align: center;
+    background-color:white;
 }
 
 .inspiration-title{
@@ -137,15 +142,20 @@ margin-bottom: 40px;
 }
 iframe{
    
-    border-radius: 16px;
+   
     width: 1440px;
     height: 500px;
+    border: 15px solid aliceblue;
+    border-radius: 16px;
     
     
 
 }
 .card{
     margin: 90px 100px;
+}
+.card-box a{
+    color:black;
 }
 .card-title{
     color: rgb(13, 19, 33);
