@@ -266,3 +266,23 @@ margin-bottom: 20px;
     letter-spacing: 0%;
     
 }
+.footer2{
+    background-color: azure;
+    padding:50px 80px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.footer-text{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+.icon-box{
+    display: flex;
+    gap: 30px;
+}
